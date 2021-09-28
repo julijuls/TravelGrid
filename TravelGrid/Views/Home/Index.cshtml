@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model AirportViewModel
+<div class="form-group">
+    <div>
+
+        <form asp-controller="Home" asp-action="Index" method="post">
+            <select asp-for="SelectedAirportId" asp-items="Model.ClosestAirports"></select>
+            <select asp-for="SelectedCountryId" asp-items="Model.DestinationCountries" onchange="onCountrySelectHandler(event)"></select>
+            <select asp-for="SelectedCityId" asp-items="Model.DestinationCities" class="d-none"></select>
+            <select id="Cities"></select>
+            <br /><button type="submit">Search</button>
+        </form>
+
+    </div>
+</div>
+<script>
+    function onCountrySelectHandler(event) {
+        var cityId = event.target.value;
+        var $citiesById = $(`#SelectedCityId > optgroup[label=${cityId}]`).children();
+
+        var $cities = $("#Cities");
+
+        $cities.empty();
+
+        $.each($citiesById, function (key, city) {
+            $cities.append(city);
+        })
+
+    }
+</script>

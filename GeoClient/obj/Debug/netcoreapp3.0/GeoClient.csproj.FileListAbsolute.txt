@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\bin\Debug\netcoreapp3.0\GeoClient.deps.json
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\bin\Debug\netcoreapp3.0\GeoClient.dll
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\bin\Debug\netcoreapp3.0\GeoClient.pdb
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.AssemblyInfo.cs
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.dll
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.pdb
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\TravelGrid\GeoClient\obj\Debug\netcoreapp3.0\GeoClient.csproj.CoreCompileInputs.cache

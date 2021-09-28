@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0tMoR2xsbVf3VoefchRHd/0SIGZrOk7SWQilTTIrxstJbdx3PH7RaNhIUwUkOMoHcM97AYoojmMUt4gYm6FuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julia\\source\\repos\\TravelGrid\\GeoClient\\GeoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Julia\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512",
+    "C:\\Users\\Julia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Julia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Julia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
