@@ -21,10 +21,7 @@ namespace TravelGrid.Controllers
         {
             _airportService = airportService;
         }
-        //public async Task<IActionResult> GetSomeData([FromQuery]FinalData finalData)
-        //{
-        //    return _airportService.Handle(finalData);
-        //}
+
         public IActionResult Index()
         {
             var countryGroups = new Dictionary<string, SelectListGroup>();

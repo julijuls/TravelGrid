@@ -17,8 +17,6 @@ namespace TravelGrid.Services.AirportService
         {
             _airportClient = airportClient;
         }
-
-
         public IEnumerable<PlacesResponse> GetClosestAirports(string remoteIPAddress)
         {
             var closestPlaces = _airportClient.GetClosestPlaces(remoteIPAddress);
